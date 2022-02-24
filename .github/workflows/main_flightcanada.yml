@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'FlightCanada'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FF9536F7CA54BFDB988B9C5626A6938 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A904469554CB4B59801491842AC0FDA3 }}
           package: .
